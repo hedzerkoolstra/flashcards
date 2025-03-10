@@ -1,0 +1,60 @@
+{
+  "Name": "People's Occupations",
+  "Words": [
+    { "english": "Teacher", "italian": "Insegnante", "learned": false, "done": false },
+    { "english": "Doctor", "italian": "Dottore", "learned": false, "done": false },
+    { "english": "Engineer", "italian": "Ingegnere", "learned": false, "done": false },
+    { "english": "Lawyer", "italian": "Avvocato", "learned": false, "done": false },
+    { "english": "Nurse", "italian": "Infermiere", "learned": false, "done": false },
+    { "english": "Chef", "italian": "Chef", "learned": false, "done": false },
+    { "english": "Artist", "italian": "Artista", "learned": false, "done": false },
+    { "english": "Programmer", "italian": "Programmatore", "learned": false, "done": false },
+    { "english": "Scientist", "italian": "Scienziato", "learned": false, "done": false },
+    { "english": "Police officer", "italian": "Poliziotto", "learned": false, "done": false },
+    { "english": "Firefighter", "italian": "Vigile del fuoco", "learned": false, "done": false },
+    { "english": "Carpenter", "italian": "Falegname", "learned": false, "done": false },
+    { "english": "Architect", "italian": "Architetto", "learned": false, "done": false },
+    { "english": "Accountant", "italian": "Contabile", "learned": false, "done": false },
+    { "english": "Electrician", "italian": "Elettricista", "learned": false, "done": false },
+    { "english": "Plumber", "italian": "Idraulico", "learned": false, "done": false },
+    { "english": "Mechanic", "italian": "Meccanico", "learned": false, "done": false },
+    { "english": "Librarian", "italian": "Bibliotecario", "learned": false, "done": false },
+    { "english": "Writer", "italian": "Scrittore", "learned": false, "done": false },
+    { "english": "Actor", "italian": "Attore", "learned": false, "done": false },
+    { "english": "Musician", "italian": "Musicista", "learned": false, "done": false },
+    { "english": "Athlete", "italian": "Atleta", "learned": false, "done": false },
+    { "english": "Farmer", "italian": "Agricoltore", "learned": false, "done": false },
+    { "english": "Entrepreneur", "italian": "Imprenditore", "learned": false, "done": false },
+    { "english": "Pilot", "italian": "Pilota", "learned": false, "done": false },
+    { "english": "Soldier", "italian": "Soldato", "learned": false, "done": false },
+    { "english": "Dentist", "italian": "Dentista", "learned": false, "done": false },
+    { "english": "Psychologist", "italian": "Psicologo", "learned": false, "done": false },
+    {
+      "english": "Receptionist",
+      "italian": "Addetto alla reception",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Waiter/waitress",
+      "italian": "Cameriere / Cameriera",
+      "learned": false,
+      "done": false
+    },
+    { "english": "Bus driver", "italian": "Autista di autobus", "learned": false, "done": false },
+    { "english": "Salesperson", "italian": "Venditore", "learned": false, "done": false },
+    { "english": "Banker", "italian": "Banchiere", "learned": false, "done": false },
+    { "english": "Tailor", "italian": "Sarto", "learned": false, "done": false },
+    { "english": "Gardener", "italian": "Giardiniere", "learned": false, "done": false },
+    { "english": "Photographer", "italian": "Fotografo", "learned": false, "done": false },
+    { "english": "Barista", "italian": "Barista", "learned": false, "done": false },
+    { "english": "Economist", "italian": "Economista", "learned": false, "done": false },
+    { "english": "Journalist", "italian": "Giornalista", "learned": false, "done": false },
+    {
+      "english": "Teacher's assistant",
+      "italian": "Assistente di insegnamento",
+      "learned": false,
+      "done": false
+    }
+  ]
+}

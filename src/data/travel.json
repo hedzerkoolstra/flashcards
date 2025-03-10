@@ -1,0 +1,52 @@
+{
+  "Name": "Travel and Transportation",
+  "Words": [
+    { "english": "plane", "italian": "aereo", "learned": false, "done": false },
+    { "english": "train", "italian": "treno", "learned": false, "done": false },
+    { "english": "car", "italian": "auto", "learned": false, "done": false },
+    { "english": "bus", "italian": "autobus", "learned": false, "done": false },
+    { "english": "taxi", "italian": "taxi", "learned": false, "done": false },
+    { "english": "bicycle", "italian": "bicicletta", "learned": false, "done": false },
+    { "english": "motorcycle", "italian": "motocicletta", "learned": false, "done": false },
+    { "english": "truck", "italian": "camion", "learned": false, "done": false },
+    {
+      "english": "garbage truck",
+      "italian": "camion della spazzatura",
+      "learned": false,
+      "done": false
+    },
+    { "english": "boat", "italian": "barca", "learned": false, "done": false },
+    { "english": "ship", "italian": "nave", "learned": false, "done": false },
+    { "english": "subway", "italian": "metropolitana", "learned": false, "done": false },
+    { "english": "ticket", "italian": "biglietto", "learned": false, "done": false },
+    { "english": "passport", "italian": "passaporto", "learned": false, "done": false },
+    { "english": "luggage", "italian": "bagaglio", "learned": false, "done": false },
+    { "english": "airport", "italian": "aeroporto", "learned": false, "done": false },
+    { "english": "station", "italian": "stazione", "learned": false, "done": false },
+    { "english": "port", "italian": "porto", "learned": false, "done": false },
+    { "english": "bridge", "italian": "ponte", "learned": false, "done": false },
+    { "english": "driver", "italian": "autista", "learned": false, "done": false },
+    { "english": "passenger", "italian": "passeggero", "learned": false, "done": false },
+    { "english": "road", "italian": "strada", "learned": false, "done": false },
+    { "english": "traffic light", "italian": "semaforo", "learned": false, "done": false },
+    { "english": "route", "italian": "percorso", "learned": false, "done": false },
+    { "english": "traffic", "italian": "traffico", "learned": false, "done": false },
+    { "english": "parking", "italian": "parcheggio", "learned": false, "done": false },
+    { "english": "timetable", "italian": "orario", "learned": false, "done": false },
+    { "english": "itenerary", "italian": "itinerario", "learned": false, "done": false },
+    { "english": "direction", "italian": "direzione", "learned": false, "done": false },
+    { "english": "wheel", "italian": "ruota", "learned": false, "done": false },
+    { "english": "steering wheel", "italian": "volante", "learned": false, "done": false },
+    { "english": "delay", "italian": "ritardo", "learned": false, "done": false },
+    { "english": "reservation", "italian": "prenotazione", "learned": false, "done": false },
+    { "english": "intersection", "italian": "incrocio", "learned": false, "done": false },
+    { "english": "boarding pass", "italian": "carta d'imbarco", "learned": false, "done": false },
+    {
+      "english": "security check",
+      "italian": "controllo di sicurezza",
+      "learned": false,
+      "done": false
+    },
+    { "english": "platform", "italian": "binario", "learned": false, "done": false }
+  ]
+}

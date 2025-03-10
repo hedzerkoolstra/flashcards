@@ -1,0 +1,148 @@
+{
+  "Name": "Prepositions Sentences",
+  "Words": [
+    { "english": "gedaan door mij", "italian": "fatto da me", "learned": false, "done": false },
+    { "english": "gedaan door jou", "italian": "fatto da te", "learned": false, "done": false },
+    { "english": "gedaan door haar", "italian": "fatto da lei", "learned": false, "done": false },
+    { "english": "het komt door mij", "italian": "è a causa mia", "learned": false, "done": false },
+    { "english": "het komt door jou", "italian": "è a causa tua", "learned": false, "done": false },
+    {
+      "english": "het komt door haar",
+      "italian": "è a causa sua",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "doordat ik dit heb gedaan",
+      "italian": "perché ho fatto questo",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "doordat jij dit hebt gedaan",
+      "italian": "perché hai fatto questo",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "doordat hij dit heeft gedaan",
+      "italian": "perché ha fatto questo",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "he walked towards the sunset",
+      "italian": "camminava verso il tramonto",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "around eight I did this",
+      "italian": "verso le otto ho fatto questo",
+      "learned": false,
+      "done": false
+    },
+    { "english": "op de fiets", "italian": "in bici", "learned": false, "done": false },
+    { "english": "op een eiland", "italian": "su un'isola", "learned": false, "done": false },
+    { "english": "op de motor", "italian": "sulla moto", "learned": false, "done": false },
+    { "english": "op dat moment", "italian": "al momento", "learned": false, "done": false },
+    { "english": "in een moment", "italian": "in un attimo", "learned": false, "done": false },
+    { "english": "er op lopen", "italian": "camminarci sopra", "learned": false, "done": false },
+    { "english": "op mijn brood", "italian": "sul mio pane", "learned": false, "done": false },
+    { "english": "het is op", "italian": "è finito", "learned": false, "done": false },
+    { "english": "in dit land", "italian": "in questo paese", "learned": false, "done": false },
+    { "english": "in mijn mond", "italian": "nella mia bocca", "learned": false, "done": false },
+    { "english": "in het huis", "italian": "nella casa", "learned": false, "done": false },
+    { "english": "bij het huis", "italian": "alla casa", "learned": false, "done": false },
+    { "english": "bij het park", "italian": "al parco", "learned": false, "done": false },
+    {
+      "english": "het hoort bij mij",
+      "italian": "appartiene a me",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "het hoort bij de service",
+      "italian": "fa parte del servizio",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "het zit bij de prijs in",
+      "italian": "è incluso nel prezzo",
+      "learned": false,
+      "done": false
+    },
+    { "english": "in de winkel", "italian": "nel negozio", "learned": false, "done": false },
+    { "english": "het is van mij", "italian": "è mio", "learned": false, "done": false },
+    { "english": "dit is van haar", "italian": "questo è suo", "learned": false, "done": false },
+    {
+      "english": "die tafel van jou",
+      "italian": "quel tuo tavolo",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "ik loop door het huis",
+      "italian": "cammino per la casa",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "ik stap de bus in",
+      "italian": "salgo sull'autobus",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "ik loop naar het park",
+      "italian": "vado al parco",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "op vakantie naar Italië",
+      "italian": "in vacanza in Italia",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "laten we naar het musuem gaan",
+      "italian": "andiamo al museo",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "laten we naar de stad gaan",
+      "italian": "andiamo in cittá",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "laten we naar de buren gaan",
+      "italian": "andiamo dai vicini",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "jij gaat naar je moeder",
+      "italian": "vai da tua madre",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "ik ga naar de doktor",
+      "italian": "vado dal dottore",
+      "learned": false,
+      "done": false
+    },
+    { "english": "geef het aan mij", "italian": "dallo a me", "learned": false, "done": false },
+    {
+      "english": "ik praat tegen je",
+      "italian": "sto parlando a voi",
+      "learned": false,
+      "done": false
+    },
+    { "english": "ik praat met je", "italian": "parlando con te", "learned": false, "done": false }
+  ]
+}

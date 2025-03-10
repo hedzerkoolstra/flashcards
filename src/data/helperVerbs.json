@@ -1,0 +1,220 @@
+{
+  "Name": "Helper Verb Sentences",
+  "Words": [
+    {
+      "english": "Ik kan zwemmen.",
+      "italian": "Io posso nuotare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Hij zou moeten studeren.",
+      "italian": "Lui dovrebbe studiare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Hij zou kunnen helpen.",
+      "italian": "Lui potrebbe aiutare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Ze zou moeten proberen.",
+      "italian": "Lei dovrebbe provare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Wij kunnen leren.",
+      "italian": "Noi possiamo imparare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Jullie zouden kunnen gaan.",
+      "italian": "Voi potreste andare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Ze moet meedoen.",
+      "italian": "Lei deve partecipare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Wij zouden willen.",
+      "italian": "Noi vorremmo.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Jullie zouden kunnen winnen.",
+      "italian": "Voi potreste vincere.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Ik zou mijn excuses moeten aanbieden.",
+      "italian": "Io dovrei scusarmi.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Je kan vragen.",
+      "italian": "Tu puoi chiedere.",
+      "learned": false,
+      "done": false
+    },
+    { "english": "Hij zal komen.", "italian": "Lui verrà.", "learned": false, "done": false },
+    {
+      "english": "Ze zou moeten leren.",
+      "italian": "Lei dovrebbe imparare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "We moeten helpen.",
+      "italian": "Noi dobbiamo aiutare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Jullie zouden het begrijpen.",
+      "italian": "Voi capireste.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Zij zouden kunnen winnen.",
+      "italian": "Loro potrebbero vincere.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Zij zullen gaan.",
+      "italian": "Loro andranno.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Zij moeten beginnen.",
+      "italian": "Loro devono iniziare.",
+      "learned": false,
+      "done": false
+    },
+    { "english": "Ik zal proberen.", "italian": "Io proverò.", "learned": false, "done": false },
+    {
+      "english": "Je zou moeten luisteren.",
+      "italian": "Tu dovresti ascoltare.",
+      "learned": false,
+      "done": false
+    },
+    { "english": "Hij kan lezen.", "italian": "Lui può leggere.", "learned": false, "done": false },
+    {
+      "english": "Ze zou kunnen komen.",
+      "italian": "Lei potrebbe venire.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "We moeten gaan.",
+      "italian": "Noi dobbiamo andare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Jullie zouden.",
+      "italian": "Voi vorreste.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Ik zou kunnen helpen.",
+      "italian": "Io potrei aiutare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Je zult begrijpen.",
+      "italian": "Tu capirai.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Hij moet studeren.",
+      "italian": "Lui deve studiare.",
+      "learned": false,
+      "done": false
+    },
+    { "english": "Ze zou gaan.", "italian": "Lei andrebbe.", "learned": false, "done": false },
+    {
+      "english": "We zouden moeten proberen.",
+      "italian": "Noi dovremmo provare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Jullie kunnen komen.",
+      "italian": "Voi potete venire.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Zij kunnen winnen.",
+      "italian": "Loro possono vincere.",
+      "learned": false,
+      "done": false
+    },
+    { "english": "Ik zal vragen.", "italian": "Io chiederò.", "learned": false, "done": false },
+    {
+      "english": "Ik moet lopen.",
+      "italian": "Io devo camminare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Je wilt niks.",
+      "italian": "Non vuoi niente.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Je zou moeten gaan.",
+      "italian": "Tu dovresti andare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Hij moet eindigen",
+      "italian": "Lui deve finire.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Zij kan koken.",
+      "italian": "Lei può cucinare.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "We zouden kunnen winnen.",
+      "italian": "Noi potremmo vincere.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "We zullen rennen.",
+      "italian": "Noi correremo.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Jullie zullen leren.",
+      "italian": "Voi imparerete.",
+      "learned": false,
+      "done": false
+    }
+  ]
+}

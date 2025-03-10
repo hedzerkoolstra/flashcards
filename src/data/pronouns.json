@@ -1,0 +1,165 @@
+{
+  "Name": "Pronouns in Sentences",
+  "Words": [
+    {
+      "english": "I speak Italian.",
+      "italian": "Io parlo italiano.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "You are my friend.",
+      "italian": "Tu sei il mio amico.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "He likes pizza.",
+      "italian": "Lui ama la pizza.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "She reads books.",
+      "italian": "Lei legge libri.",
+      "learned": false,
+      "done": false
+    },
+    { "english": "It is a cat.", "italian": "Esso è un gatto.", "learned": false, "done": false },
+    {
+      "english": "We study together.",
+      "italian": "Noi studiamo insieme.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "You all work hard.",
+      "italian": "Voi lavorate duro.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "They live in Rome.",
+      "italian": "Loro vivono a Roma.",
+      "learned": false,
+      "done": false
+    },
+    { "english": "He sees me.", "italian": "Lui mi vede.", "learned": false, "done": false },
+    { "english": "Do you know him?", "italian": "Lo conosci?", "learned": false, "done": false },
+    { "english": "She helps her.", "italian": "Lei aiuta lei.", "learned": false, "done": false },
+    {
+      "english": "It loves its toy.",
+      "italian": "Esso ama il suo giocattolo.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "They invite us.",
+      "italian": "Loro ci invitano.",
+      "learned": false,
+      "done": false
+    },
+    { "english": "I see you.", "italian": "Io ti vedo.", "learned": false, "done": false },
+    {
+      "english": "Do you understand me?",
+      "italian": "Mi capisci?",
+      "learned": false,
+      "done": false
+    },
+    { "english": "He sees him.", "italian": "Lui lo vede.", "learned": false, "done": false },
+    { "english": "She sees her.", "italian": "Lei la vede.", "learned": false, "done": false },
+    { "english": "It sees it.", "italian": "Esso lo vede.", "learned": false, "done": false },
+    { "english": "We see us.", "italian": "Noi ci vediamo.", "learned": false, "done": false },
+    { "english": "Do you see them?", "italian": "Li vedi?", "learned": false, "done": false },
+    {
+      "english": "This is my cat.",
+      "italian": "Questo è il mio gatto.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Is this your book?",
+      "italian": "Questo è il tuo libro?",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "This is his house.",
+      "italian": "Questa è la sua casa.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "This is her bag.",
+      "italian": "Questo è il suo sacco.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "This is its ball.",
+      "italian": "Questa è la sua palla.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "This is our car.",
+      "italian": "Questa è la nostra macchina.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Is this your car?",
+      "italian": "Questa è la tua macchina?",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "This is their dog.",
+      "italian": "Questo è il loro cane.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "This book is mine.",
+      "italian": "Questo libro è il mio.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Is this book yours?",
+      "italian": "Questo libro è il tuo?",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "This is his pencil.",
+      "italian": "Questa è la sua matita.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "This is her pen.",
+      "italian": "Questa è la sua penna.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "This is its bone.",
+      "italian": "Questo è il suo osso.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "This is our table.",
+      "italian": "Questa è la nostra tavola.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "Is this table yours?",
+      "italian": "Questa tavola è vostra?",
+      "learned": false,
+      "done": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Name": "Abstract Nouns",
+  "Words": [
+    { "english": "love", "italian": "amore", "learned": false, "done": false },
+    { "english": "happiness", "italian": "felicità", "learned": false, "done": false },
+    { "english": "peace", "italian": "pace", "learned": false, "done": false },
+    { "english": "freedom", "italian": "libertà", "learned": false, "done": false },
+    { "english": "justice", "italian": "giustizia", "learned": false, "done": false },
+    { "english": "knowledge", "italian": "conoscenza", "learned": false, "done": false },
+    { "english": "wisdom", "italian": "saggezza", "learned": false, "done": false },
+    { "english": "hope", "italian": "speranza", "learned": false, "done": false },
+    { "english": "faith", "italian": "fede", "learned": false, "done": false },
+    { "english": "courage", "italian": "coraggio", "learned": false, "done": false },
+    { "english": "kindness", "italian": "gentilezza", "learned": false, "done": false },
+    { "english": "patience", "italian": "pazienza", "learned": false, "done": false },
+    { "english": "truth", "italian": "verità", "learned": false, "done": false },
+    { "english": "gratitude", "italian": "gratitudine", "learned": false, "done": false },
+    { "english": "purpose", "italian": "scopo", "learned": false, "done": false },
+    { "english": "joy", "italian": "gioia", "learned": false, "done": false },
+    { "english": "imagination", "italian": "immaginazione", "learned": false, "done": false },
+    { "english": "compassion", "italian": "compassione", "learned": false, "done": false },
+    { "english": "friendship", "italian": "amicizia", "learned": false, "done": false },
+    { "english": "creativity", "italian": "creatività", "learned": false, "done": false },
+    { "english": "balance", "italian": "equilibrio", "learned": false, "done": false },
+    { "english": "reflection", "italian": "riflessione", "learned": false, "done": false }
+  ]
+}

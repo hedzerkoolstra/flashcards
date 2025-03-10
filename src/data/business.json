@@ -1,0 +1,43 @@
+{
+  "Name": "Business",
+  "Words": [
+    { "english": "business", "italian": "affari", "learned": false, "done": false },
+    { "english": "company", "italian": "azienda", "learned": false, "done": false },
+    { "english": "manager", "italian": "dirigente", "learned": false, "done": false },
+    { "english": "employee", "italian": "dipendente", "learned": false, "done": false },
+    { "english": "boss", "italian": "capo", "learned": false, "done": false },
+    { "english": "office", "italian": "ufficio", "learned": false, "done": false },
+    { "english": "meeting", "italian": "riunione", "learned": false, "done": false },
+    { "english": "project", "italian": "progetto", "learned": false, "done": false },
+    { "english": "deadline", "italian": "scadenza", "learned": false, "done": false },
+    { "english": "budget", "italian": "bilancio", "learned": false, "done": false },
+
+    { "english": "strategy", "italian": "strategia", "learned": false, "done": false },
+    { "english": "marketing", "italian": "marketing", "learned": false, "done": false },
+    { "english": "sales", "italian": "vendite", "learned": false, "done": false },
+    { "english": "client", "italian": "cliente", "learned": false, "done": false },
+    { "english": "customer", "italian": "cliente", "learned": false, "done": false },
+    { "english": "product", "italian": "prodotto", "learned": false, "done": false },
+    { "english": "service", "italian": "servizio", "learned": false, "done": false },
+    { "english": "market", "italian": "mercato", "learned": false, "done": false },
+    { "english": "finance", "italian": "finanza", "learned": false, "done": false },
+    { "english": "invest", "italian": "investire", "learned": false, "done": false },
+
+    { "english": "profit", "italian": "profitto", "learned": false, "done": false },
+    { "english": "loss", "italian": "perdita", "learned": false, "done": false },
+    { "english": "income", "italian": "reddito", "learned": false, "done": false },
+    { "english": "expenses", "italian": "spese", "learned": false, "done": false },
+    { "english": "invoice", "italian": "fattura", "learned": false, "done": false },
+    { "english": "payment", "italian": "pagamento", "learned": false, "done": false },
+    { "english": "negotiate", "italian": "negoziare", "learned": false, "done": false },
+    { "english": "contract", "italian": "contratto", "learned": false, "done": false },
+    { "english": "partnership", "italian": "partenariato", "learned": false, "done": false },
+    { "english": "entrepreneur", "italian": "imprenditore", "learned": false, "done": false },
+
+    { "english": "startup", "italian": "startup", "learned": false, "done": false },
+    { "english": "innovation", "italian": "innovazione", "learned": false, "done": false },
+    { "english": "networking", "italian": "rete", "learned": false, "done": false },
+    { "english": "conference", "italian": "conferenza", "learned": false, "done": false },
+    { "english": "promotion", "italian": "promozione", "learned": false, "done": false }
+  ]
+}

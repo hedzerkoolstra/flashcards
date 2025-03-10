@@ -1,0 +1,186 @@
+{
+  "Name": "Essential Verbs",
+  "Words": [
+    { "english": "I am happy.", "italian": "Io sono felice.", "learned": false, "done": false },
+    {
+      "english": "You are intelligent.",
+      "italian": "Tu sei intelligente.",
+      "learned": false,
+      "done": false
+    },
+    { "english": "He is tall.", "italian": "Lui è alto.", "learned": false, "done": false },
+    { "english": "She is kind.", "italian": "Lei è gentile.", "learned": false, "done": false },
+    {
+      "english": "We are friends.",
+      "italian": "Noi siamo amici.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "You all are nice.",
+      "italian": "Voi siete simpatici.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "They are busy.",
+      "italian": "Loro sono occupati.",
+      "learned": false,
+      "done": false
+    },
+
+    {
+      "english": "I do my work.",
+      "italian": "Io faccio il mio lavoro.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "You do the grocery shopping.",
+      "italian": "Tu fai la spesa.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "He has breakfast.",
+      "italian": "Lui fa colazione.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "She goes for a walk.",
+      "italian": "Lei fa una passeggiata.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "We make lunch.",
+      "italian": "Noi facciamo il  pranzo.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "You all exercise.",
+      "italian": "Voi fate esercizio fisico.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "They play sports.",
+      "italian": "Loro fanno sport.",
+      "learned": false,
+      "done": false
+    },
+
+    {
+      "english": "I go to work by bus.",
+      "italian": "Io vado al lavoro in autobus.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "You go to the supermarket.",
+      "italian": "Tu vai al supermercato.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "He is going to the cinema tonight.",
+      "italian": "Lui va al cinema stasera.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "She is going to the dentist tomorrow.",
+      "italian": "Lei va dal dentista domani.",
+      "learned": false,
+      "done": false
+    },
+    { "english": "I am tired.", "italian": "Io sono stanco.", "learned": false, "done": false },
+    {
+      "english": "She does her homework.",
+      "italian": "Lei fa i compiti.",
+      "learned": false,
+      "done": false
+    },
+    { "english": "He has a cat.", "italian": "Lui ha un gatto.", "learned": false, "done": false },
+    {
+      "english": "We are at home.",
+      "italian": "Noi siamo a casa.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "We make a house.",
+      "italian": "Noi facciamo una casa.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "You all make a good team.",
+      "italian": "Voi fate un buon team.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "They are happy.",
+      "italian": "Loro sono felici.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "I have a headache.",
+      "italian": "Io ho mal di testa.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "She makes delicious pasta.",
+      "italian": "Lei fa una pasta deliziosa.",
+      "learned": false,
+      "done": false
+    },
+    { "english": "He is hungry.", "italian": "Lui ha fame.", "learned": false, "done": false },
+    {
+      "english": "We have a big family.",
+      "italian": "Noi abbiamo una grande famiglia.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "We go to the park.",
+      "italian": "Noi andiamo al parco.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "You all go on vacation.",
+      "italian": "Voi andate in vacanza.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "They go to the sea.",
+      "italian": "Loro vanno al mare.",
+      "learned": false,
+      "done": false
+    },
+
+    { "english": "I am hungry.", "italian": "Io ho fame.", "learned": false, "done": false },
+    { "english": "Are you thirsty?", "italian": "Tu hai sete?", "learned": false, "done": false },
+    { "english": "He has a dog.", "italian": "Lui ha un cane.", "learned": false, "done": false },
+    { "english": "She is cold.", "italian": "Lei ha freddo.", "learned": false, "done": false },
+    {
+      "english": "We have a new house.",
+      "italian": "Noi abbiamo una casa nuova.",
+      "learned": false,
+      "done": false
+    },
+    {
+      "english": "They have a red car.",
+      "italian": "Loro hanno una macchina rossa.",
+      "learned": false,
+      "done": false
+    }
+  ]
+}

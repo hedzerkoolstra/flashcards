@@ -1,0 +1,33 @@
+{
+  "Name": "Actions Mental",
+  "Words": [
+    { "english": "learn", "italian": "imparare", "learned": false, "done": false },
+    { "english": "imagine", "italian": "immaginare", "learned": false, "done": false },
+    { "english": "create", "italian": "creare", "learned": false, "done": false },
+    { "english": "approve", "italian": "approvare", "learned": false, "done": false },
+    { "english": "concentrate", "italian": "concentrare", "learned": false, "done": false },
+    { "english": "visualize", "italian": "visualizzare", "learned": false, "done": false },
+    { "english": "question", "italian": "domandare", "learned": false, "done": false },
+    { "english": "analyze", "italian": "analizzare", "learned": false, "done": false },
+    { "english": "reflect", "italian": "riflettere", "learned": false, "done": false },
+    { "english": "calculate", "italian": "calcolare", "learned": false, "done": false },
+    { "english": "meditate", "italian": "meditare", "learned": false, "done": false },
+    { "english": "believe", "italian": "credere", "learned": false, "done": false },
+    { "english": "trust", "italian": "fidare", "learned": false, "done": false },
+    { "english": "remember", "italian": "ricordare", "learned": false, "done": false },
+    { "english": "understand", "italian": "capire", "learned": false, "done": false },
+    { "english": "know (information)", "italian": "sapere", "learned": false, "done": false },
+    { "english": "recognize", "italian": "riconoscere", "learned": false, "done": false },
+    { "english": "know (a person)", "italian": "conoscere", "learned": false, "done": false },
+    { "english": "forget", "italian": "dimenticare", "learned": false, "done": false },
+    { "english": "lie", "italian": "mentire", "learned": false, "done": false },
+    { "english": "hope", "italian": "sperare", "learned": false, "done": false },
+    { "english": "choose", "italian": "scegliere", "learned": false, "done": false },
+    { "english": "react", "italian": "reagire", "learned": false, "done": false },
+    { "english": "support / lean on", "italian": "appoggiare", "learned": false, "done": false },
+    { "english": "get used to", "italian": "abituare", "learned": false, "done": false },
+    { "english": "confuse", "italian": "confondere", "learned": false, "done": false },
+    { "english": "find out", "italian": "scoprire", "learned": false, "done": false },
+    { "english": "miss", "italian": "mancare", "learned": false, "done": false }
+  ]
+}
