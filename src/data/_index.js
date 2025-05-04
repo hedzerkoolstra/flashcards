@@ -30,14 +30,14 @@ import time from "./time.json";
 import travel from "./travel.json";
 import reflexiveVerbs from "./reflexiveVerbs.json";
 
-const nthNumber = 23
-const nthNumberNew = 2
+const nthNumber = 2
 const newOnesWithProps = {
   ...newOnes,
   Words: newOnes.Words.map((word) => ({ ...word, learned: false, done: false })).filter(
     // (word, index) => (index + 1) % 24 === nthNumber
-    (word, index) => (index + 1) % 3 === nthNumberNew && index > newOnes.Words.length - 100
-    // (word, index) => index > newOnes.Words.length - 70
+    // (word, index) => (index + 1) % 3 === nthNumber && index > newOnes.Words.length - 100
+    (word, index) => (index + 1) % 3 === nthNumber && index > 799 && index < 899
+    // (word, index) => index > newOnes.Words.length - 30
 )};
 
 const allCategories = [

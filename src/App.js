@@ -4,21 +4,20 @@ import { useEventListener } from "usehooks-ts";
 
 import allCategories from "./data/_index";
 
-const INITIAL_LANGUAGE = "english";
+const upside = "italian";
+const downside = "english";
 
 function App() {
   const [currentWords, setCurrentWords] = useState([]);
-  const [language, setLanguage] = useState(INITIAL_LANGUAGE);
+  const [language, setLanguage] = useState(upside);
   const [currentWordIndex, setCurrentWordIndex] = useState(null);
 
-  const onToggleLanguage = () => {
-    setLanguage(language === "english" ? "italian" : "english");
-  };
+  const onTurnCard = () => setLanguage(language === upside ? downside : upside);
 
   const areAllDone = (words) => words.every((w) => !!w.done);
 
   const getRandomWord = (words) => {
-    setLanguage(INITIAL_LANGUAGE);
+    setLanguage(upside);
     if (areAllDone(words)) return;
     const index = Math.floor(Math.random() * words.length);
     return words[index].done ? getRandomWord(words) : index;
@@ -77,7 +76,7 @@ function App() {
       onKnow();
     } else if (event.key === " ") {
       event.preventDefault();
-      onToggleLanguage();
+      onTurnCard();
     }
   });
 
@@ -105,7 +104,7 @@ function App() {
         </div>
         {currentWordIndex !== null && (
           <>
-            <div className="card" onClick={onToggleLanguage}>
+            <div className="card" onClick={onTurnCard}>
               {!areAllDone(currentWords) ? currentWords[currentWordIndex][language] : "Finito!"}
             </div>
 

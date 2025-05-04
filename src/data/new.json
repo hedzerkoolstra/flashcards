@@ -589,7 +589,7 @@
     { "italian": "fittizio", "english": "fictief" },
     { "italian": "colpo di fortuna", "english": "meevaller" },
     { "italian": "colpo", "english": "schot / klap" },
-    { "italian": "adottare", "english": "vaststellen" },
+    { "italian": "adottare / accertare", "english": "vaststellen" },
     { "italian": "di concerto con", "english": "in overleg met" },
     { "italian": "appagamento", "english": "tevredenheid" },
     { "italian": "stupire", "english": "verbazen" },
@@ -805,7 +805,7 @@
     { "italian": "ignorare", "english": "negeren" },
     { "italian": "cresta", "english": "bergkam" },
     { "italian": "rupe / scogliera", "english": "klif" },
-    { "italian": "ostacolare", "english": "belemmeren" },
+    { "italian": "ostacolare / intralciare", "english": "belemmeren / hinderen" },
     { "italian": "torre", "english": "toren" },
     { "italian": "sorvegliare", "english": "in de gaten houden" },
     { "italian": "strada sterrata", "english": "onverharde weg" },
@@ -1125,7 +1125,7 @@
     { "italian": "bocciata", "english": "verworpen / weggestemd" },
     { "italian": "scaricare", "english": "downloaden" },
     { "italian": "l'asse", "english": "de as" },
-    { "italian": "in assenza", "english": "bij afwezigheid" },
+    { "italian": "in assenza di", "english": "bij afwezigheid van" },
     { "italian": "aggredito", "english": "aangevallen / mishandeld" },
     { "italian": "cacciata", "english": "verjaagd / verbannen" },
     { "italian": "ammettere", "english": "toegeven" },
@@ -1183,6 +1183,270 @@
     { "italian": "spericolata", "english": "roekeloos" },
     { "italian": "è stata una cattiveria", "english": "dat was gemeen" },
     { "italian": "scuderia", "english": "stal" },
-    { "italian": "disegno", "english": "ontwerp" }
+    { "italian": "disegno", "english": "ontwerp" },
+    { "italian": "ometto", "english": "mannetje" },
+    { "italian": "fornitore", "english": "leverancier" },
+    { "italian": "inventarsi le cose", "english": "dingen verzinnen" },
+    { "italian": "berretto", "english": "muts / pet" },
+    { "italian": "ceppo", "english": "stronk / stam" },
+    { "italian": "è un peccato", "english": "het is zonde" },
+    { "italian": "in vena", "english": "in de stemming" },
+    { "italian": "indignato per", "english": "verontwaardigd over" },
+    { "italian": "salvare", "english": "redden" },
+    { "italian": "buon auspicio", "english": "goed voorteken" },
+    { "italian": "aggiornare", "english": "bijwerken" },
+    { "italian": "in ricognizione", "english": "op verkenning" },
+    { "italian": "rigagnolo", "english": "beekje" },
+    { "italian": "felci", "english": "varens" },
+    { "italian": "serratura", "english": "slot (van sleutel)" },
+    { "italian": "conca", "english": "sluis" },
+    { "italian": "ben tenuti", "english": "goed onderhouden" },
+    { "italian": "la barba sfatta", "english": "de wilde baard" },
+    { "italian": "la barba ispida", "english": "de ruige baard" },
+    { "italian": "baffi", "english": "snor" },
+    { "italian": "più folti", "english": "dikker / voller" },
+    { "italian": "sopracciglia", "english": "wenkbrauwen" },
+    { "italian": "perenne", "english": "eeuwigdurend" },
+    { "italian": "la vita eterna", "english": "het eeuwige leven" },
+    { "italian": "diffidenza", "english": "wantrouwen" },
+    { "italian": "stappare", "english": "ontkurken" },
+    {
+      "italian": "porgere le mie congratulazioni / condoglianze",
+      "english": "mijn gelukwensen / deelneming betuigen"
+    },
+    { "italian": "trave", "english": "balk" },
+    { "italian": "possedere", "english": "bezitten" },
+    { "italian": "grasso / unto", "english": "vettig" },
+    { "italian": "incrostato", "english": "aangekoekt" },
+    { "italian": "sterco", "english": "mest" },
+    { "italian": "soglia", "english": "drempel" },
+    { "italian": "ostruire", "english": "belemmeren" },
+    { "italian": "rattoppato", "english": "opgelapt" },
+    { "italian": "siluro / silurare", "english": "torpedo / torpederen" },
+    { "italian": "proiettile  / pallottola", "english": "kogel" },
+    { "italian": "in corso", "english": "aan de gang" },
+    { "italian": "scegliere dove alloggiare", "english": "kiezen waar te verblijven" },
+    { "italian": "erede", "english": "erfgenaam" },
+    { "italian": "che mi è sfuggito", "english": "wat ik heb gemist / over het hoofd heb gezien" },
+    { "italian": "il casaro", "english": "de kaasmaker" },
+    { "italian": "salamoia", "english": "pekel" },
+    { "italian": "tondo", "english": "rond" },
+    { "italian": "giacere", "english": "liggen" },
+    { "italian": "una catasta di legna", "english": "een stapel hout" },
+    { "italian": "abbeveratoio", "english": "drinkbak" },
+    { "italian": "ciotola", "english": "kom" },
+    { "italian": "disprezzo", "english": "minachting" },
+    { "italian": "in malora", "english": "naar de haaien" },
+    { "italian": "allevatore", "english": "veehouder / fokker" },
+    { "italian": "la spada", "english": "het zwaard" },
+    { "italian": "rinascimento", "english": "renaissance" },
+    { "italian": "lacerare", "english": "scheuren / verscheuren" },
+    { "italian": "le righe", "english": "de rijen" },
+    { "italian": "un'ora in più", "english": "een extra uur" },
+    { "italian": "è affollato", "english": "het is druk" },
+    { "italian": "a nessuno importa", "english": "het kan niemand schelen" },
+    { "italian": "ingoiare / deglutire", "english": "slikken" },
+    { "italian": "pigro", "english": "lui" },
+    { "italian": "per compensare", "english": "om te compenseren voor" },
+    { "italian": "spegnere l'incendio", "english": "het vuur blussen / doven" },
+    { "italian": "a causa di", "english": "vanwege / wegens" },
+    { "italian": "convalescenza / guarigione", "english": "herstel" },
+    { "italian": "riposo / tranquillità", "english": "rust" },
+    { "italian": "si è dimesso", "english": "is afgetreden / ontslag nam" },
+    { "italian": "risolto", "english": "opgelost" },
+    { "italian": "chiunque può unirsi", "english": "iedereen kan meedoen" },
+    { "italian": "diamo un'occhiata", "english": "laten we eens kijken" },
+    { "italian": "seppellire", "english": "te begraven" },
+    { "italian": "anello", "english": "ring" },
+    { "italian": "attrito", "english": "wrijving" },
+    { "italian": "dovresti vergognarti", "english": "je zou je moeten schamen" },
+    { "italian": "udienza", "english": "hoorzitting" },
+    { "italian": "revocare", "english": "intrekken" },
+    { "italian": "esigente", "english": "veeleisend" },
+    { "italian": "risarcimento", "english": "vergoeding" },
+    { "italian": "dazi doganali", "english": "invoerrechten" },
+    { "italian": "ramponi", "english": "stijgijzers" },
+    { "italian": "ingombrante / macchinosa", "english": "omslachtig" },
+    { "italian": "bagliore", "english": "gloed / schittering" },
+    { "italian": "macerie", "english": "puin" },
+    { "italian": "faglia", "english": "breuklijn" },
+    { "italian": "una ventina", "english": "een twintigtal" },
+    { "italian": "grattacielo", "english": "wolkenkrabber" },
+    { "italian": "soccorritore / paramedico", "english": "hulpverlener" },
+    { "italian": "un ulteriore passo", "english": "een volgende stap" },
+    { "italian": "disperso", "english": "vermist" },
+    { "italian": "occidentale / orientale", "english": "westelijk / oostelijk" },
+    { "italian": "settentrionale / meridionale", "english": "noordelijk / zuidelijk" },
+    {
+      "italian": "a nord / est / sud /ovest di",
+      "english": "ten noorden / oosten / zuiden / westen van"
+    },
+    { "italian": "abitudine", "english": "gewoonte" },
+    { "italian": "palese / ovviamente", "english": "overduidelijk" },
+    { "italian": "segare / una (moto)sega", "english": "zagen / een (motor)zaag" },
+    { "italian": "fatta apposta", "english": "speciaal gemaakt" },
+    { "italian": "fa impazzire", "english": "gek gemaakt" },
+    { "italian": "capezzolo", "english": "tepel" },
+    { "italian": "masticare", "english": "kauwen" },
+    { "italian": "sulla carta", "english": "op papier" },
+    { "italian": "per rimorchiare", "english": "om (vrouwen) te versieren / op te pikken" },
+    { "italian": "rompere il ghiaccio", "english": "het ijs breken" },
+    { "italian": "ghiacciare", "english": "bevriezen" },
+    { "italian": "scongelare", "english": "ontdooien" },
+    { "italian": "fastidio / infastidire", "english": "ergernis / te irriteren" },
+    { "italian": "fare battute", "english": "grappen maken" },
+    { "italian": "molestare", "english": "lastig vallen" },
+    { "italian": "digiunare", "english": "vasten" },
+    { "italian": "minestra / zuppa", "english": "soep" },
+    { "italian": "nessuno se ne accorge", "english": "niemand heeft het door" },
+    { "italian": "piombo", "english": "lood" },
+    { "italian": "mercurio", "english": "kwik" },
+    { "italian": "pila", "english": "stapel" },
+    { "italian": "cielo limpido", "english": "heldere hemel" },
+    { "italian": "sbiadire", "english": "vervagen / verbleken" },
+    { "italian": "armeggiare con", "english": "sleutelen aan" },
+    { "italian": "battere", "english": "verslaan" },
+    { "italian": "mordere", "english": "bijten" },
+    { "italian": "sbattere la testa", "english": "het hoofd stoten" },
+    { "italian": "goffo", "english": "onhandig" },
+    { "italian": "tepore / calore", "english": "warmte" },
+    { "italian": "arrancare", "english": "sjokken" },
+    { "italian": "abbagliante", "english": "schitterende / oogverblindend" },
+    {
+      "port": 20,
+      "protocol": "FTP Data (TCP)"
+    },
+    {
+      "port": 21,
+      "protocol": "FTP Control (TCP)"
+    },
+    {
+      "port": 22,
+      "protocol": "SSH/SFTP (TCP)"
+    },
+    {
+      "port": 23,
+      "protocol": "Telnet (TCP)"
+    },
+    {
+      "port": 25,
+      "protocol": "SMTP (TCP)"
+    },
+    {
+      "port": 53,
+      "protocol": "DNS (TCP/UDP)"
+    },
+    {
+      "port": 67,
+      "protocol": "DHCP Server (UDP)"
+    },
+    {
+      "port": 68,
+      "protocol": "DHCP Client (UDP)"
+    },
+    {
+      "port": 69,
+      "protocol": "TFTP (UDP)"
+    },
+    {
+      "port": 80,
+      "protocol": "HTTP (TCP)"
+    },
+    {
+      "port": 110,
+      "protocol": "POP3 (TCP)"
+    },
+    {
+      "port": 123,
+      "protocol": "NTP (UDP)"
+    },
+    {
+      "port": 137,
+      "protocol": "NetBIOS Name Service (UDP)"
+    },
+    {
+      "port": 138,
+      "protocol": "NetBIOS Datagram Service (UDP)"
+    },
+    {
+      "port": 139,
+      "protocol": "NetBIOS Session Service (TCP)"
+    },
+    {
+      "port": 143,
+      "protocol": "IMAP (TCP)"
+    },
+    {
+      "port": 161,
+      "protocol": "SNMP Agent (UDP)"
+    },
+    {
+      "port": 162,
+      "protocol": "SNMP Trap (UDP)"
+    },
+    {
+      "port": 389,
+      "protocol": "LDAP (TCP/UDP)"
+    },
+    {
+      "port": 443,
+      "protocol": "HTTPS (TCP)"
+    },
+    {
+      "port": 445,
+      "protocol": "SMB/CIFS (TCP)"
+    },
+    {
+      "port": 587,
+      "protocol": "SMTP TLS (TCP)"
+    },
+    {
+      "port": 636,
+      "protocol": "LDAPS (TCP)"
+    },
+    {
+      "port": 993,
+      "protocol": "IMAPS (TCP)"
+    },
+    {
+      "port": 995,
+      "protocol": "POP3S (TCP)"
+    },
+    {
+      "port": 1701,
+      "protocol": "L2TP (UDP)"
+    },
+    {
+      "port": 1723,
+      "protocol": "PPTP (TCP)"
+    },
+    {
+      "port": 3389,
+      "protocol": "RDP (TCP)"
+    },
+    {
+      "port": 5060,
+      "protocol": "SIP (TCP/UDP)"
+    },
+    {
+      "port": 5061,
+      "protocol": "SIP TLS (TCP)"
+    },
+    {
+      "port": 1433,
+      "protocol": "Microsoft SQL Server (TCP)"
+    },
+    {
+      "port": 1434,
+      "protocol": "Microsoft SQL Server Browser (UDP)"
+    },
+    {
+      "port": 3306,
+      "protocol": "MySQL (TCP)"
+    },
+    {
+      "port": 5432,
+      "protocol": "PostgreSQL (TCP)"
+    }
   ]
 }
